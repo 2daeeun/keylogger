@@ -7,5 +7,5 @@
 # Unignore all dirs
 !*/
 
-# Ignore keylog file
-keylog
+# Ignore log file
+log
