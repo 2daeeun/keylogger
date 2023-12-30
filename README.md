@@ -1,4 +1,8 @@
 # 리눅스 키로거 프로그램
+### 미리보기
+<p align="center">
+  <img src="https://github.com/2daeeun/keylogger/blob/main/preview.gif?raw=true">
+</p>
 
 ### 실행 방법
 ```swift
